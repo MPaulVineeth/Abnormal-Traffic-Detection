@@ -1,4 +1,4 @@
-# 🚦 Abnormal Traffic Detection using ABS-CNN with CBAM
+# 🚦 Abnormal Traffic Detection using ABS-CNN
 
 This final year project implements an advanced deep learning model to detect abnormal traffic in network data. It uses a custom **ABS-CNN (Attention-based CNN)** architecture enhanced with the **CBAM (Convolutional Block Attention Module)** to analyze .pcap files converted into 2D image format.
 
